@@ -1,0 +1,70 @@
+body {
+    background: #eee
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    background: rgb(193, 212, 66);
+    margin: auto 250px;
+    width: 1000px auto;
+}
+img {
+    
+    height: 100px;
+    
+}
+header nav a {
+    padding: 0 25px;
+    text-decoration: none;
+    color: black;
+}
+main {
+    
+    margin: auto 250px;
+    
+    background: white;
+}
+div {
+    text-align: justify;
+    width: 45%;
+}
+div a {
+    background: rgb(193, 212, 66);
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: right;
+    padding: 10px ;
+    margin-left: 330px;
+    margin-bottom: 40px;
+    
+
+}
+main div {
+    padding: 10px 20px;
+}
+
+.inline{
+    display: inline-block;
+}
+.antras {
+    height: 10000px;
+    width: 100%;
+    padding: 0 0px;
+}
+.answer {
+    
+    display: inline-block;
+}
+nav img {
+    float: left;
+    width: 250px;
+    height: 200px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+footer {
+    text-align: center;
+}
